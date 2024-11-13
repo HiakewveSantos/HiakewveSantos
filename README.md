@@ -1,0 +1,5 @@
+- 👋 Olá, me chamo Hiakewve Santos
+- 🎓 Estudante de Sistemas de Informação | UFS - 4º período
+- 🚀 Estou aqui explorando o mundo da tecnologia e expandindo meus conhecimentos em diversas áreas, aproveitando, desse modo, o processo de aprendizagem em cada etapa.
+- 🌱 Em constante evolução: Cada projeto é uma oportunidade de aprender e crescer. Em breve, você verá aqui alguns projetos que refletem essa jornada.
+- 💡  Curioso e adaptável: Aberto a novas ideias e desafios. Acredito que a melhor maneira de aprender é experimentando.
